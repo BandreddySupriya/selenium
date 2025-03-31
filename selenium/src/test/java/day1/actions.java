@@ -21,6 +21,7 @@ public class actions {
 		.release()
 		.build()
 		.perform();
+		driver.quit();
 
 	}
 
